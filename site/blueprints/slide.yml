@@ -2,7 +2,13 @@ title: Slide
 pages: false
 status: false
 preview: parent
-files: images
+files:
+  type: image
+  fields:
+    dontShowAsSlide:
+      label: Don't show as a a slide
+      type: toggle
+      default: false
 fields:
   heading_1:
     type: headline

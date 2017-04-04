@@ -1,13 +1,21 @@
-img {
+.slide.image img {
     max-width: 100%;
 }
 
 .scrollable {
     max-height: 80%;
     font-size: .8em;
-    overflow: scroll;
+    padding-left: 2em;
+    margin-left: -2em;
+    overflow-x: scroll;
+    overflow-y: visible;
 }
 
 .emoji {
     font-size: 3em;
+}
+
+li small {
+    font-size: 0.8em;
+    color: #333;
 }

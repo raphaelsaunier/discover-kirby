@@ -18,7 +18,7 @@
 </header>
 
 
-<?php foreach (page('home')->children()->visible() as $slide): ?>
+<?php foreach (page('home')->children() as $slide): ?>
 
     <?php snippet('slide', compact('slide')); ?>
 

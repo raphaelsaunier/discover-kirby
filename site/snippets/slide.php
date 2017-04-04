@@ -14,3 +14,11 @@
         </style>
     <?php endif; ?>
 </section>
+
+<?php if($slide->hasImages()): ?>
+    <?php foreach($slide->slideImages() as $image): ?>
+        <section class="slide image">
+            <?php echo $image; ?>
+        </section>
+    <?php endforeach; ?>
+<?php endif; ?>
