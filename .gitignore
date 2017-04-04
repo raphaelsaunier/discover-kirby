@@ -4,6 +4,3 @@ node_modules/
 /site/accounts
 /assets/avatars
 /thumbs/*
-
-# Ignore content folder since it is synced with Dropbox
-content
