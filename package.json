@@ -1,0 +1,9 @@
+{
+  "name": "discover-kirby",
+  "repository": "git@github.com:raphaelsaunier/discover-kirby.git",
+  "author": "Raphael Saunier <raphael.saunier@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "shower": "^2.1.9"
+  }
+}

@@ -1,0 +1,18 @@
+title: Site
+fields:
+  title:
+    label: Title
+    type:  text
+  subtitle:
+    label: Subtitle
+    type:  textarea
+  separator:
+    type: line
+  shower_options:
+    type: headline
+    label: Shower options
+  show_progress_bar:
+    label: Show progress bar
+    width: 1/2
+    type: toggle
+    translate: false

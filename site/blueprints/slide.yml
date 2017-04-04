@@ -1,0 +1,12 @@
+title: Slide
+pages: false
+status: false
+preview: parent
+files: images
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  textarea
