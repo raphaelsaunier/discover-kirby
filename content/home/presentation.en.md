@@ -1,5 +1,0 @@
-Title: Slides
-
-----
-
-Text: 

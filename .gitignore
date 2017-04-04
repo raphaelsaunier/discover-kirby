@@ -6,4 +6,4 @@ node_modules/
 /thumbs/*
 
 # Ignore content folder since it is synced with Dropbox
-content/
+content
