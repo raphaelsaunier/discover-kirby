@@ -1,0 +1,13 @@
+img {
+    max-width: 100%;
+}
+
+.scrollable {
+    max-height: 80%;
+    font-size: .8em;
+    overflow: scroll;
+}
+
+.emoji {
+    font-size: 3em;
+}

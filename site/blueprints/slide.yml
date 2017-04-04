@@ -4,9 +4,29 @@ status: false
 preview: parent
 files: images
 fields:
+  heading_1:
+    type: headline
+    label: Slide content
   title:
     label: Title
     type:  text
   text:
     label: Text
     type:  textarea
+  heading_2:
+    type: headline
+    label: Additional options
+  hideTitle:
+    type: toggle
+    label: Hide title
+    default: false
+    width: 1/2
+  scrollable:
+    type: toggle
+    label: Scrollable content
+    default: false
+    width: 1/2
+  customStyles:
+    label: Custom CSS
+    translate: false
+    type: codemirror
