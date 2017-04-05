@@ -7,7 +7,6 @@ Text:
 ### WebMardi Romandie 04/04/17 – Raphaël Saunier
 
 (image: kirbyicon.svg class: cover)
-(imgix: kirbyicon.jpg)
 
 ----
 
@@ -41,5 +40,3 @@ Hidetitle: false
 Scrollable: false
 
 ----
-
-Customstyles: 

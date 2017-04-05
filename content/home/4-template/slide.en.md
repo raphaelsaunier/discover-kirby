@@ -6,17 +6,6 @@ Scrollable: true
 
 ----
 
-LeftCol:
-
-----
-
-RightCol:
-
-lorem
-
------
-
-
 Text:
 
 
